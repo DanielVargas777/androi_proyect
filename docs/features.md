@@ -11,7 +11,7 @@
 
 ¿Quien quiere ser millonario? Dejara que el usuario juegue en el un questionario donde por medio de un interfaz podra seleccionar una respuesta:
 
-!) Seleccionar una opcion entre 4 respuestas a una pregunta que se le subministre 
+1) Seleccionar una opcion entre 4 respuestas a una pregunta que se le subministre 
 
 2) Si la opcion es correcta se le indicara con una luz verde en la respuesta y sera llevado a la siguiente pregunta
 
