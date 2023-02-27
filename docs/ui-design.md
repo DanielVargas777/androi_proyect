@@ -2,14 +2,16 @@
 
 esta es la primera version que se tiene para la app donde el usuario al ingresar en la app sera llevado a una pantalla de inicio y al pulsar un boton sera enviado a una pantalla donde se le hara una pregunta , si responde bien sera enviada a una nueva si no responde bien se regresara a la pantalla de inicio 
 
-1) incio
+1) inicio
 
+Cuando el usuario entre a la app vera la pantalla del juego donde podra presionar el boton para empezar a jugarlo
 
 ![inico](https://user-images.githubusercontent.com/103227489/221466033-f4e4995e-afdd-4f12-97a9-6708efe51349.JPG)
 
 
-2) vista del juego 
+2) vista del juego A
 
+Al comenzar el juego el juego presentara una pantalla con diferentes opciones con una pregunta en la parte superior  
 
 ![p1](https://user-images.githubusercontent.com/103227489/221466058-5ac43b25-1aec-4f8d-a37f-2bd0a9a4dfe8.JPG)
 
